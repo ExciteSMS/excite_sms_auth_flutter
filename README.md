@@ -25,7 +25,7 @@ To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/flutter-otp-verification.git
+   git clone https://github.com/ExciteSMS/flutter-otp-verification.git
    cd flutter-otp-verification
     ```
 
