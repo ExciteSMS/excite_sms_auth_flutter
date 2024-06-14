@@ -32,7 +32,7 @@ class _PhoneNumberScreenState extends State<PhoneNumberScreen> {
   String generatedOTP = ''; // Store the generated OTP here
 
   Future<void> sendOTP() async {
-    final apiUrl = Uri.parse('https://gateway.excitesms.tech/api/v3/sms/send');
+    final apiUrl = Uri.parse('https://gateway.excitesms.com/api/v3/sms/send');
     final headers = {
       'Accept': 'application/json',
       'Content-Type': 'application/json',
